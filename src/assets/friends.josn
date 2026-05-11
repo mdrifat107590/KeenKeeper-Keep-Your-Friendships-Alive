@@ -1,0 +1,147 @@
+[
+  {
+    "id": 1,
+    "name": "David Kim",
+    "picture": "/assets/photos/david_kim.jpg", // PHOTO HERE
+    "email": "david.kim@email.com",
+    "days_since_contact": 10,
+    "status": "on-track",
+    "tags": ["work", "mentor"],
+    "bio": "Former colleague, great mentor.",
+    "goal": 30,
+    "next_due_date": "2026-05-27"
+  },
+  {
+    "id": 2,
+    "name": "Emma Wilson",
+    "picture": "/assets/photos/emma_wilson.jpg", // PHOTO HERE
+    "email": "emma.wilson@email.com",
+    "days_since_contact": 62,
+    "status": "overdue",
+    "tags": ["family"],
+    "bio": "Former colleague, great mentor.",
+    "goal": 30,
+    "next_due_date": "2026-02-27"
+  },
+  {
+    "id": 3,
+    "name": "Lisa Nakamura",
+    "picture": "/assets/photos/lisa_nakamura.jpg", // PHOTO HERE
+    "email": "lisa.nakamura@email.com",
+    "days_since_contact": 15,
+    "status": "almost due",
+    "tags": ["travel", "college"],
+    "bio": "Met in Japan, love to travel together.",
+    "goal": 20,
+    "next_due_date": "2026-05-20"
+  },
+  {
+    "id": 4,
+    "name": "James Wright",
+    "picture": "/assets/photos/james_wright.jpg", // PHOTO HERE
+    "email": "james.wright@email.com",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["friend", "gym"],
+    "bio": "Gym buddy, always motivates.",
+    "goal": 10,
+    "next_due_date": "2026-05-16"
+  }
+    {
+    "id": 5,
+    "name": "David Kim",
+    "picture": "/assets/photos/david_kim.jpg", // PHOTO HERE
+    "email": "david.kim@email.com",
+    "days_since_contact": 10,
+    "status": "on-track",
+    "tags": ["work", "mentor"],
+    "bio": "Former colleague, great mentor.",
+    "goal": 30,
+    "next_due_date": "2026-05-27"
+  },
+  {
+    "id": 6,
+    "name": "Emma Wilson",
+    "picture": "/assets/photos/emma_wilson.jpg", // PHOTO HERE
+    "email": "emma.wilson@email.com",
+    "days_since_contact": 62,
+    "status": "overdue",
+    "tags": ["family"],
+    "bio": "Former colleague, great mentor.",
+    "goal": 30,
+    "next_due_date": "2026-02-27"
+  },
+  {
+    "id": 7,
+    "name": "Lisa Nakamura",
+    "picture": "/assets/photos/lisa_nakamura.jpg", // PHOTO HERE
+    "email": "lisa.nakamura@email.com",
+    "days_since_contact": 15,
+    "status": "almost due",
+    "tags": ["travel", "college"],
+    "bio": "Met in Japan, love to travel together.",
+    "goal": 20,
+    "next_due_date": "2026-05-20"
+  },
+  {
+    "id": 8,
+    "name": "James Wright",
+    "picture": "/assets/photos/james_wright.jpg", // PHOTO HERE
+    "email": "james.wright@email.com",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["friend", "gym"],
+    "bio": "Gym buddy, always motivates.",
+    "goal": 10,
+    "next_due_date": "2026-05-16"
+  }
+    {
+    "id": 9,
+    "name": "David Kim",
+    "picture": "/assets/photos/david_kim.jpg", // PHOTO HERE
+    "email": "david.kim@email.com",
+    "days_since_contact": 10,
+    "status": "on-track",
+    "tags": ["work", "mentor"],
+    "bio": "Former colleague, great mentor.",
+    "goal": 30,
+    "next_due_date": "2026-05-27"
+  },
+  {
+    "id": 10,
+    "name": "Emma Wilson",
+    "picture": "/assets/photos/emma_wilson.jpg", // PHOTO HERE
+    "email": "emma.wilson@email.com",
+    "days_since_contact": 62,
+    "status": "overdue",
+    "tags": ["family"],
+    "bio": "Former colleague, great mentor.",
+    "goal": 30,
+    "next_due_date": "2026-02-27"
+  },
+  {
+    "id": 11,
+    "name": "Lisa Nakamura",
+    "picture": "/assets/photos/lisa_nakamura.jpg", // PHOTO HERE
+    "email": "lisa.nakamura@email.com",
+    "days_since_contact": 15,
+    "status": "almost due",
+    "tags": ["travel", "college"],
+    "bio": "Met in Japan, love to travel together.",
+    "goal": 20,
+    "next_due_date": "2026-05-20"
+  },
+  {
+    "id": 12,
+    "name": "James Wright",
+    "picture": "/assets/photos/james_wright.jpg", // PHOTO HERE
+    "email": "james.wright@email.com",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["friend", "gym"],
+    "bio": "Gym buddy, always motivates.",
+    "goal": 10,
+    "next_due_date": "2026-05-16"
+  }
+  
+]
