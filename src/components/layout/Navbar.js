@@ -1,6 +1,5 @@
 "use client";
 
-import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 
@@ -45,9 +44,8 @@ export function Navbar() {
   return (
     <header className="border-b border-slate-200 bg-white">
       <div className="mx-auto flex h-16 w-full max-w-6xl items-center justify-between px-4 sm:px-6 lg:px-8">
-        <Link href="/" className="flex items-center gap-2">
-          <Image src="/assets/icon/logo.png" alt="KeenKeeper logo" width={28} height={28} priority />
-          <span className="text-2xl font-black tracking-tight text-slate-800">KeenKeeper</span>
+        <Link href="/" className="text-3xl font-black tracking-tight text-slate-800">
+          KeenKeeper
         </Link>
 
         <nav className="flex items-center gap-2">

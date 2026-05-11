@@ -23,7 +23,7 @@ export default async function FriendDetailsPage({ params }) {
               alt={friend.name}
               width={84}
               height={84}
-              className="mx-auto h-[84px] w-[84px] rounded-full object-cover"
+              className="mx-auto h-21 w-21 rounded-full object-cover"
             />
             <h1 className="mt-4 text-center text-3xl font-black text-slate-800">{friend.name}</h1>
 
